@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanteEmery
-- 👀 I’m interested in ... python development
-- 🌱 I’m currently learning ... django web framework
+- 👀 I’m interested in ... Python and Data Science
+- 🌱 I’m currently learning ... Basic Python and Django Web Framework
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... dkvirtual3@gmail.com
 
