@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python and Data Science
 - 🌱 I’m currently learning ... Basic Python and Django Web Framework
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... dkvirtual3@gmail.com | www.dante.contact | https://www.kaggle.com/danteemery | https://www.datacamp.com/profile/danteemery
+- 📫 How to reach me ... dkvirtual3@gmail.com, www.dante.contact, https://www.kaggle.com/danteemery, https://www.datacamp.com/profile/danteemery
 
 <!---
 DanteEmery/DanteEmery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
