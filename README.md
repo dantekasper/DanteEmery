@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanteEmery
-- 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... Blender, Ableton, C++
+- 👀 I’m interested in ... Game Development, Web Development
+- 🌱 I’m currently learning ... Blender, Ableton, C++, three.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... dkvirtual3@gmail.com, www.dante.contact
 
