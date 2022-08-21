@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanteEmery
-- 👀 I’m interested in ... Web Development
+- 👀 I’m interested in ... WebGL
 - 🌱 I’m currently learning ... Blender, React, Three.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... dkvirtual3@gmail.com, www.dante.contact
